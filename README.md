@@ -12,4 +12,4 @@ You are required to develop a small system using MAVEN and Java programming lang
 4) All the results must be displayed in MS Excel file.
 
 #### ```Flowchart Diagram```
-![](https://github.com/yuzhixiong1/RealTimeProgramming_Assignment1/images/FlowchartDiagram1.png)
+![](https://github.com/yuzhixiong1/RealTimeProgramming_Assignment1/tree/master/images/FlowchartDiagram1.png)
